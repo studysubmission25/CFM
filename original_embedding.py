@@ -28,7 +28,7 @@ if torch.cuda.is_available():
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 print("Device: ", device)
 # Load and sort dataset
-df_positive = pd.read_csv('/home/ubuntu/ECMLPKDD/diffusion_model/positive_dataset.csv')
+df_positive = pd.read_csv('positive_dataset.csv')
 df_positive = df_positive[['SUBJECT_CUI', 'PREDICATE', 'OBJECT_CUI']]
 df_positive = df_positive.sort_values(by=['SUBJECT_CUI', 'PREDICATE', 'OBJECT_CUI']).reset_index(drop=True)
 
@@ -58,7 +58,7 @@ result = pipeline(
 
 # Save the trained model
 model = result.model
-model_path = '/home/ubuntu/ECMLPKDD/diffusion_model/original_rgcn_model.pt'
+model_path = 'original_rgcn_model.pt'
 torch.save(model.state_dict(), model_path)
 print(f"Model saved to {model_path}")
 
@@ -66,7 +66,7 @@ print(f"Model saved to {model_path}")
 node_embeddings = model.entity_representations[0]
 node_embeddings_numpy = node_embeddings().cpu().detach().numpy()
 
-np.save('/home/ubuntu/ECMLPKDD/diffusion_model/original_node_embeddings.npy', node_embeddings_numpy)
+np.save('original_node_embeddings.npy', node_embeddings_numpy)
 
 print(f'Node Embeddings Shape: {node_embeddings_numpy.shape}')
 print(f'Embedding Dimension: {node_embeddings().shape[1]}')
@@ -87,7 +87,7 @@ from pykeen.models import RGCN
 import torch
 
 
-model_path = '/home/ubuntu/ECMLPKDD/diffusion_model/original_rgcn_model.pt'
+model_path = 'original_rgcn_model.pt'
 
 loaded_model = RGCN(
     triples_factory=combined_factory,
