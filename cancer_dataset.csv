@@ -1,0 +1,374 @@
+SUBJECT_CUI,PREDICATE,OBJECT_CUI,FREQUENCY,SOURCE,SUBJECT_SEMTYPE,OBJECT_SEMTYPE,CANCER_CLASS
+C3852841,TREATS,C1562029,,repoDB,phsu,dsyn,Breast Cancer
+C2607886,TREATS,C0376358,,repoDB,phsu,dsyn,Prostate Cancer
+C4078312,TREATS,C0334634,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C2987648,TREATS,C1960925,,repoDB,phsu,dsyn,Lung Cancer
+C1134659,TREATS,C1282500,,repoDB,phsu,dsyn,Colon and Rectal Cancer
+C0051113,TREATS,C0079773,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0218986,TREATS,C0023467,,repoDB,phsu,dsyn,Leukemia
+C0218986,TREATS,C0278678,,repoDB,phsu,dsyn,Kidney Cancer
+C0218986,TREATS,C0860594,,repoDB,phsu,dsyn,Melanoma
+C3853921,TREATS,C0007131,86.0,SemMedDB,"orch,phsu",neop,Lung Cancer
+C4055478,TREATS,C4708088,,repoDB,phsu,dsyn,Breast Cancer
+C0051556,TREATS,C0079773,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0002555,TREATS,C0346993,,repoDB,phsu,dsyn,Breast Cancer
+C0290883,TREATS,C1562029,,repoDB,phsu,dsyn,Breast Cancer
+C4329353,TREATS,C0376358,,repoDB,phsu,dsyn,Prostate Cancer
+C0052416,TREATS,C0023479,,repoDB,phsu,dsyn,Leukemia
+C0052416,TREATS,C0023487,682.0,SemMedDB,"hops,inch,phsu",neop,Leukemia
+C0003993,TREATS,C0023449,374.0,SemMedDB,"aapp,phsu",neop,Leukemia
+C4055433,TREATS,C4708088,,repoDB,phsu,dsyn,Breast Cancer
+C4055433,TREATS,C4303663,,repoDB,phsu,dsyn,Lung Cancer
+C4055433,TREATS,C0278987,,repoDB,phsu,dsyn,Lung Cancer
+C1700874,TREATS,C0007134,,repoDB,phsu,dsyn,Kidney Cancer
+C0004475,TREATS,C0023480,81.0,SemMedDB,"nnon,phsu",neop,Leukemia
+C0004475,TREATS,C0023467,472.0,SemMedDB,"nnon,phsu",neop,Leukemia
+C1948068,TREATS,C0079774,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0762737,TREATS,C0007131,,repoDB,phsu,dsyn,Lung Cancer
+C0525079,TREATS,C0024301,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0525079,TREATS,C0023434,126.0,SemMedDB,"orch,phsu",neop,Leukemia
+C0005308,TREATS,C0024301,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0005308,TREATS,C0079773,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0005308,TREATS,C0023449,,repoDB,phsu,dsyn,Leukemia
+C0005308,TREATS,C0024305,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0005310,TREATS,C0023449,,repoDB,phsu,dsyn,Leukemia
+C0005310,TREATS,C0024305,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0005311,TREATS,C0079773,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0053523,TREATS,C0079773,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0750848,TREATS,C0079773,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0796392,TREATS,C0346974,,repoDB,phsu,dsyn,Colon and Rectal Cancer
+C0796392,TREATS,C2585890,,repoDB,phsu,dsyn,Lung Cancer
+C0796392,TREATS,C0278678,55.0,SemMedDB,"aapp,phsu",neop,Kidney Cancer
+C0796392,TREATS,C0006142,98.0,SemMedDB,"aapp,phsu",neop,Breast Cancer
+C0796392,TREATS,C4722085,,repoDB,phsu,dsyn,Colon and Rectal Cancer
+C0765273,TREATS,C0079773,84.0,SemMedDB,"orch,phsu",neop,Non-Hodgkin Lymphoma
+C3899947,TREATS,C0860594,,repoDB,phsu,dsyn,Melanoma
+C0005740,TREATS,C0024305,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0005740,TREATS,C0079744,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0005740,TREATS,C0024301,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C3853839,TREATS,C0349636,,repoDB,phsu,dsyn,Leukemia
+C1176309,TREATS,C0334634,151.0,SemMedDB,"orch,phsu",neop,Non-Hodgkin Lymphoma
+C2973446,TREATS,C1275317,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C4287815,TREATS,C0007131,,repoDB,phsu,dsyn,Lung Cancer
+C3181682,TREATS,C0007134,,repoDB,phsu,dsyn,Kidney Cancer
+C3181682,TREATS,C0238462,,repoDB,phsu,dsyn,Thyroid Cancer
+C2699709,TREATS,C1531702,,repoDB,phsu,dsyn,Leukemia
+C0671970,TREATS,C1282500,,repoDB,phsu,dsyn,Colon and Rectal Cancer
+C0671970,TREATS,C1282500,,repoDB,phsu,dsyn,Colon and Rectal Cancer
+C0044401,TREATS,C0007102,,repoDB,phsu,dsyn,Colon and Rectal Cancer
+C0007257,TREATS,C0079744,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0007257,TREATS,C0024305,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C3818721,TREATS,C0007131,,repoDB,phsu,dsyn,Lung Cancer
+C0995188,TREATS,C0007102,,repoDB,phsu,dsyn,Colon and Rectal Cancer
+C2932486,TREATS,C0079774,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0008163,TREATS,C0024301,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0008163,TREATS,C0023434,193.0,SemMedDB,"hops,orch,phsu",neop,Leukemia
+C0092801,TREATS,C0023443,248.0,SemMedDB,"nnon,phsu",neop,Leukemia
+C0055900,TREATS,C0079773,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0092777,TREATS,C0023449,,repoDB,phsu,dsyn,Leukemia
+C4049146,TREATS,C0860594,,repoDB,phsu,dsyn,Melanoma
+C0056391,TREATS,C0079773,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0056391,TREATS,C0024301,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0056391,TREATS,C0023449,,repoDB,phsu,dsyn,Leukemia
+C0056391,TREATS,C0024305,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0056391,TREATS,C0079773,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0056391,TREATS,C0024301,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0056391,TREATS,C0023449,,repoDB,phsu,dsyn,Leukemia
+C0056391,TREATS,C0024305,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C3255208,TREATS,C0023449,,repoDB,phsu,dsyn,Leukemia
+C2974289,TREATS,C0007131,148.0,SemMedDB,"orch,phsu",neop,Lung Cancer
+C0010583,TREATS,C0024299,132.0,SemMedDB,"opco,orch,phsu",neop,Non-Hodgkin Lymphoma
+C0010583,TREATS,C0678222,54.0,SemMedDB,"opco,phsu",neop,Breast Cancer
+C0010711,TREATS,C0023487,,repoDB,phsu,dsyn,Leukemia
+C0010711,TREATS,C0023467,693.0,SemMedDB,"hops,nnon,phsu",neop,Leukemia
+C0010711,TREATS,C0023449,58.0,SemMedDB,"hops,phsu",neop,Leukemia
+C3467876,TREATS,C0860594,,repoDB,phsu,dsyn,Melanoma
+C0010927,TREATS,C0860594,,repoDB,phsu,dsyn,Melanoma
+C2987430,TREATS,C1960925,,repoDB,phsu,dsyn,Lung Cancer
+C4547776,TREATS,C1328504,,repoDB,phsu,dsyn,Prostate Cancer
+C1455147,TREATS,C0023474,,repoDB,phsu,dsyn,Leukemia
+C0011015,TREATS,C0023449,,repoDB,phsu,dsyn,Leukemia
+C0011015,TREATS,C0023487,,repoDB,phsu,dsyn,Leukemia
+C0011015,TREATS,C0023465,,repoDB,phsu,dsyn,Leukemia
+C0011015,TREATS,C0023467,187.0,SemMedDB,"antb,orch,phsu",neop,Leukemia
+C0011015,TREATS,C0023440,,repoDB,phsu,dsyn,Leukemia
+C0049065,TREATS,C0023467,257.0,SemMedDB,"nnon,phsu",neop,Leukemia
+C0717670,TREATS,C0079773,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0011705,TREATS,C0079773,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0011707,TREATS,C0079773,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0011777,TREATS,C0024301,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0011777,TREATS,C0024305,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0011777,TREATS,C0023449,62.0,SemMedDB,"orch,phsu,strd",neop,Leukemia
+C0011777,TREATS,C0079773,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0011777,TREATS,C0079744,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0011777,TREATS,C0006413,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0057992,TREATS,C0079773,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0246415,TREATS,C0678222,,repoDB,phsu,dsyn,Breast Cancer
+C0246415,TREATS,C0007131,1006.0,SemMedDB,"orch,phsu",neop,Lung Cancer
+C0246415,TREATS,C0376358,442.0,SemMedDB,"orch,phsu",neop,Prostate Cancer
+C0013089,TREATS,C3163805,,repoDB,phsu,dsyn,Breast Cancer
+C0013089,TREATS,C0079744,210.0,SemMedDB,"antb,orch",neop,Non-Hodgkin Lymphoma
+C0013089,TREATS,C0024301,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0013089,TREATS,C0023467,,repoDB,phsu,dsyn,Leukemia
+C0013089,TREATS,C0024305,68.0,SemMedDB,"antb,orch",neop,Non-Hodgkin Lymphoma
+C0013089,TREATS,C0678222,,repoDB,phsu,dsyn,Breast Cancer
+C0013089,TREATS,C0242379,,repoDB,phsu,dsyn,Lung Cancer
+C0013089,TREATS,C0149925,58.0,SemMedDB,"antb,orch",neop,Lung Cancer
+C0013089,TREATS,C0023449,,repoDB,phsu,dsyn,Leukemia
+C0013089,TREATS,C0006413,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0013089,TREATS,C0007115,,repoDB,phsu,dsyn,Thyroid Cancer
+C0571665,TREATS,C0006142,,repoDB,phsu,dsyn,Breast Cancer
+C0571665,TREATS,C0006142,,repoDB,phsu,dsyn,Breast Cancer
+C4079854,TREATS,C0023434,,repoDB,phsu,dsyn,Leukemia
+C4079854,TREATS,C0855095,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C4079854,TREATS,C0024301,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C4519428,TREATS,C0023467,,repoDB,phsu,dsyn,Leukemia
+C4079208,TREATS,C0860594,,repoDB,phsu,dsyn,Melanoma
+C4519740,TREATS,C4288754,,repoDB,phsu,dsyn,Bladder Cancer
+C4086264,TREATS,C4302554,,repoDB,phsu,dsyn,Lung Cancer
+C3496793,TREATS,C0376358,55.0,SemMedDB,"orch,phsu",neop,Prostate Cancer
+C0014582,TREATS,C0678222,,repoDB,phsu,dsyn,Breast Cancer
+C4519323,TREATS,C4288754,,repoDB,phsu,dsyn,Bladder Cancer
+C1135135,TREATS,C0007131,1209.0,SemMedDB,"orch,phsu",neop,Lung Cancer
+C1135135,TREATS,C0281361,,repoDB,phsu,dsyn,Pancreatic Cancer
+C0014921,TREATS,C0033578,,repoDB,phsu,dsyn,Prostate Cancer
+C0015133,TREATS,C0149925,380.0,SemMedDB,"carb,orch,phsu",neop,Lung Cancer
+C0059874,TREATS,C0149925,,repoDB,phsu,dsyn,Lung Cancer
+C0541315,TREATS,C0678222,,repoDB,phsu,dsyn,Breast Cancer
+C0541315,TREATS,C1562029,,repoDB,phsu,dsyn,Breast Cancer
+C0541315,TREATS,C0007134,172.0,SemMedDB,"orch,phsu",neop,Kidney Cancer
+C0851344,TREATS,C1562029,,repoDB,phsu,dsyn,Breast Cancer
+C0016343,TREATS,C0345904,,repoDB,phsu,dsyn,Liver Cancer
+C0060483,TREATS,C0023434,,repoDB,phsu,dsyn,Leukemia
+C0016374,TREATS,C0079773,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0016294,TREATS,C0079773,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0016298,TREATS,C0079773,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0016298,TREATS,C0079773,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0016299,TREATS,C0079773,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0016299,TREATS,C0079773,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0016360,TREATS,C0281361,,repoDB,phsu,dsyn,Pancreatic Cancer
+C0016360,TREATS,C0007102,218.0,SemMedDB,"nnon,phsu",neop,Colon and Rectal Cancer
+C0016360,TREATS,C1282500,,repoDB,phsu,dsyn,Colon and Rectal Cancer
+C0016366,TREATS,C1562029,,repoDB,phsu,dsyn,Breast Cancer
+C0016384,TREATS,C0033578,,repoDB,phsu,dsyn,Prostate Cancer
+C0117996,TREATS,C0079773,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0117996,TREATS,C0079773,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0048306,TREATS,C3163805,,repoDB,phsu,dsyn,Breast Cancer
+C1997549,TREATS,C0079774,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C1122962,TREATS,C0007131,1228.0,SemMedDB,"orch,phsu",neop,Lung Cancer
+C1122962,TREATS,C1960925,,repoDB,phsu,dsyn,Lung Cancer
+C0045093,TREATS,C0007131,851.0,SemMedDB,"nnon,phsu",neop,Lung Cancer
+C0045093,TREATS,C0281361,117.0,SemMedDB,"nnon,phsu",neop,Pancreatic Cancer
+C1533699,TREATS,C0023467,199.0,SemMedDB,"aapp,imft,phsu",neop,Leukemia
+C3896940,TREATS,C0023467,,repoDB,phsu,dsyn,Leukemia
+C4519273,TREATS,C0023467,,repoDB,phsu,dsyn,Leukemia
+C0120107,TREATS,C1562029,,repoDB,phsu,dsyn,Breast Cancer
+C0018513,TREATS,C0079773,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0019588,TREATS,C0023467,,repoDB,phsu,dsyn,Leukemia
+C0020268,TREATS,C0023449,,repoDB,phsu,dsyn,Leukemia
+C0020268,TREATS,C0024305,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0020268,TREATS,C0079773,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0063077,TREATS,C0023449,,repoDB,phsu,dsyn,Leukemia
+C0063077,TREATS,C0024305,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0063077,TREATS,C0023449,,repoDB,phsu,dsyn,Leukemia
+C0063077,TREATS,C0024305,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0770560,TREATS,C0024305,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0770560,TREATS,C0023449,,repoDB,phsu,dsyn,Leukemia
+C0770560,TREATS,C0024305,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0770560,TREATS,C0023449,,repoDB,phsu,dsyn,Leukemia
+C0020402,TREATS,C0023473,146.0,SemMedDB,"orch,phsu",neop,Leukemia
+C0020402,TREATS,C0025202,,repoDB,phsu,dsyn,Melanoma
+C0877880,TREATS,C0024301,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C3501358,TREATS,C0334634,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C3501358,TREATS,C0023434,323.0,SemMedDB,"orch,phsu",neop,Leukemia
+C2604307,TREATS,C0007131,,repoDB,phsu,dsyn,Lung Cancer
+C0020789,TREATS,C0023467,106.0,SemMedDB,"orch,phsu",neop,Leukemia
+C0020789,TREATS,C0023487,,repoDB,phsu,dsyn,Leukemia
+C2698692,TREATS,C0023434,,repoDB,phsu,dsyn,Leukemia
+C2698692,TREATS,C0024301,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C2698692,TREATS,C0855095,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0935989,TREATS,C0023474,205.0,SemMedDB,"orch,phsu",neop,Leukemia
+C0935989,TREATS,C0346421,,repoDB,phsu,dsyn,Leukemia
+C1567130,TREATS,C0349636,,repoDB,phsu,dsyn,Leukemia
+C0021735,TREATS,C0023443,,repoDB,phsu,dsyn,Leukemia
+C0021735,TREATS,C0025202,61.0,SemMedDB,"aapp,phsu",neop,Melanoma
+C1367202,TREATS,C0860594,,repoDB,phsu,dsyn,Melanoma
+C0123931,TREATS,C1282500,,repoDB,phsu,dsyn,Colon and Rectal Cancer
+C0123931,TREATS,C0346976,,repoDB,phsu,dsyn,Pancreatic Cancer
+C0123931,TREATS,C0281361,,repoDB,phsu,dsyn,Pancreatic Cancer
+C4682397,TREATS,C0023467,,repoDB,phsu,dsyn,Leukemia
+C1135132,TREATS,C0678222,,repoDB,phsu,dsyn,Breast Cancer
+C1506770,TREATS,C1960398,,repoDB,phsu,dsyn,Breast Cancer
+C1144149,TREATS,C0334634,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C2986924,TREATS,C0007134,,repoDB,phsu,dsyn,Kidney Cancer
+C2986924,TREATS,C0206682,,repoDB,phsu,dsyn,Thyroid Cancer
+C2986924,TREATS,C0238463,,repoDB,phsu,dsyn,Thyroid Cancer
+C0246421,TREATS,C1562029,,repoDB,phsu,dsyn,Breast Cancer
+C0040165,TREATS,C0007115,,repoDB,phsu,dsyn,Thyroid Cancer
+C0041014,TREATS,C0007115,,repoDB,phsu,dsyn,Thyroid Cancer
+C0065175,TREATS,C0242379,,repoDB,phsu,dsyn,Lung Cancer
+C4080091,TREATS,C0007131,58.0,SemMedDB,"orch,phsu",neop,Lung Cancer
+C0025033,TREATS,C0242379,,repoDB,phsu,dsyn,Lung Cancer
+C0025033,TREATS,C0024305,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0025033,TREATS,C0079773,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0025033,TREATS,C0023434,,repoDB,phsu,dsyn,Leukemia
+C0025033,TREATS,C0023473,,repoDB,phsu,dsyn,Leukemia
+C0025147,TREATS,C0153685,,repoDB,phsu,dsyn,Kidney Cancer
+C0025147,TREATS,C0476089,,repoDB,phsu,dsyn,Endometrial Cancer
+C0065879,TREATS,C0476089,,repoDB,phsu,dsyn,Endometrial Cancer
+C0065879,TREATS,C1562029,,repoDB,phsu,dsyn,Breast Cancer
+C0000618,TREATS,C0023487,,repoDB,phsu,dsyn,Leukemia
+C0000618,TREATS,C0023449,181.0,SemMedDB,"nnon,phsu",neop,Leukemia
+C0025677,TREATS,C3163805,,repoDB,phsu,dsyn,Breast Cancer
+C0025677,TREATS,C0024305,74.0,SemMedDB,"orch,phsu",neop,Non-Hodgkin Lymphoma
+C0025677,TREATS,C0023449,340.0,SemMedDB,"orch,phsu",neop,Leukemia
+C0025677,TREATS,C0242379,,repoDB,phsu,dsyn,Lung Cancer
+C0025677,TREATS,C0006413,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0025684,TREATS,C0079773,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0025815,TREATS,C0079773,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0025815,TREATS,C0024301,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0025815,TREATS,C0024305,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0025815,TREATS,C0023449,,repoDB,phsu,dsyn,Leukemia
+C0025826,TREATS,C1562029,,repoDB,phsu,dsyn,Breast Cancer
+C0526371,TREATS,C0023467,92.0,SemMedDB,"orch,phsu",neop,Leukemia
+C0526371,TREATS,C0023461,,repoDB,phsu,dsyn,Leukemia
+C0002475,TREATS,C0281361,,repoDB,phsu,dsyn,Pancreatic Cancer
+C0026256,TREATS,C0686510,,repoDB,phsu,dsyn,Kidney Cancer
+C0026259,TREATS,C0023467,71.0,SemMedDB,"orch,phsu",neop,Leukemia
+C2987603,TREATS,C0079774,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0066700,TREATS,C0079773,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0066700,TREATS,C0079773,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C2717021,TREATS,C0023443,,repoDB,phsu,dsyn,Leukemia
+C2352806,TREATS,C0007131,,repoDB,phsu,dsyn,Lung Cancer
+C0907349,TREATS,C1961099,,repoDB,phsu,dsyn,Leukemia
+C0907349,TREATS,C1292758,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C2713008,TREATS,C1960398,,repoDB,phsu,dsyn,Breast Cancer
+C1721377,TREATS,C0023474,,repoDB,phsu,dsyn,Leukemia
+C2930789,TREATS,C0007131,,repoDB,phsu,dsyn,Lung Cancer
+C3657270,TREATS,C0278678,170.0,SemMedDB,"aapp,phsu",neop,Kidney Cancer
+C3657270,TREATS,C0149782,,repoDB,phsu,dsyn,Lung Cancer
+C3657270,TREATS,C0860594,,repoDB,phsu,dsyn,Melanoma
+C3657270,TREATS,C0007131,211.0,SemMedDB,"aapp,phsu",neop,Lung Cancer
+C2742503,TREATS,C0023434,,repoDB,phsu,dsyn,Leukemia
+C1832027,TREATS,C0023434,,repoDB,phsu,dsyn,Leukemia
+C4301624,TREATS,C0007131,,repoDB,phsu,dsyn,Lung Cancer
+C0062941,TREATS,C0023473,,repoDB,phsu,dsyn,Leukemia
+C4058811,TREATS,C1960925,78.0,SemMedDB,"orch,phsu",neop,Lung Cancer
+C0069717,TREATS,C1282500,,repoDB,phsu,dsyn,Colon and Rectal Cancer
+C0144576,TREATS,C0346976,,repoDB,phsu,dsyn,Pancreatic Cancer
+C0144576,TREATS,C0007131,763.0,SemMedDB,"orch,phsu",neop,Lung Cancer
+C0144576,TREATS,C0678222,,repoDB,phsu,dsyn,Breast Cancer
+C2698706,TREATS,C0007112,,repoDB,phsu,dsyn,Prostate Cancer
+C3853822,TREATS,C2316304,,repoDB,phsu,dsyn,Breast Cancer
+C3853822,TREATS,C1562029,,repoDB,phsu,dsyn,Breast Cancer
+C0879427,TREATS,C0346974,,repoDB,phsu,dsyn,Colon and Rectal Cancer
+C1998098,TREATS,C0079773,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C1831796,TREATS,C0007134,,repoDB,phsu,dsyn,Kidney Cancer
+C0071568,TREATS,C0023449,62.0,SemMedDB,"aapp,phsu",neop,Leukemia
+C3658706,TREATS,C0007131,250.0,SemMedDB,"aapp,phsu",neop,Lung Cancer
+C3658706,TREATS,C0860594,,repoDB,phsu,dsyn,Melanoma
+C0210657,TREATS,C0007131,688.0,SemMedDB,"orch,phsu",neop,Lung Cancer
+C0030896,TREATS,C0023443,144.0,SemMedDB,"antb,nnon,phsu",neop,Leukemia
+C1328025,TREATS,C1960398,56.0,SemMedDB,"aapp,phsu",neop,Breast Cancer
+C0253355,TREATS,C0024305,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C4078806,TREATS,C0855112,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C2987417,TREATS,C0023473,52.0,SemMedDB,"orch,phsu",neop,Leukemia
+C1130428,TREATS,C0007131,,repoDB,phsu,dsyn,Lung Cancer
+C1721300,TREATS,C0079774,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0071836,TREATS,C0079773,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0071836,TREATS,C0079773,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0032950,TREATS,C0024301,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0032950,TREATS,C0024305,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0032950,TREATS,C0023449,,repoDB,phsu,dsyn,Leukemia
+C0032950,TREATS,C0079773,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0032952,TREATS,C0023449,,repoDB,phsu,dsyn,Leukemia
+C0032952,TREATS,C0024305,78.0,SemMedDB,"horm,orch,phsu",neop,Non-Hodgkin Lymphoma
+C0032952,TREATS,C0024301,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0032952,TREATS,C0023434,,repoDB,phsu,dsyn,Leukemia
+C0032952,TREATS,C0079773,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0032952,TREATS,C0079744,164.0,SemMedDB,"horm,orch,phsu",neop,Non-Hodgkin Lymphoma
+C0033308,TREATS,C0476089,,repoDB,phsu,dsyn,Endometrial Cancer
+C0033308,TREATS,C0153685,,repoDB,phsu,dsyn,Kidney Cancer
+C2980091,TREATS,C4543165,,repoDB,phsu,dsyn,Leukemia
+C2980091,TREATS,C0023467,,repoDB,phsu,dsyn,Leukemia
+C3651264,TREATS,C0376358,,repoDB,phsu,dsyn,Prostate Cancer
+C3273827,TREATS,C0023473,,repoDB,phsu,dsyn,Leukemia
+C2742502,TREATS,C0007131,,repoDB,phsu,dsyn,Lung Cancer
+C2742502,TREATS,C2239176,,repoDB,phsu,dsyn,Liver Cancer
+C2980094,TREATS,C2239176,85.0,SemMedDB,"orch,phsu",neop,Liver Cancer
+C2980094,TREATS,C1282500,,repoDB,phsu,dsyn,Colon and Rectal Cancer
+C4045494,TREATS,C1562029,,repoDB,phsu,dsyn,Breast Cancer
+C0393022,TREATS,C0024305,295.0,SemMedDB,"aapp,phsu",neop,Non-Hodgkin Lymphoma
+C0393022,TREATS,C0023434,366.0,SemMedDB,"aapp,imft,phsu",neop,Leukemia
+C1527027,TREATS,C0079774,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C1527027,TREATS,C0079773,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0072980,TREATS,C0007134,61.0,SemMedDB,"antb,orch",neop,Kidney Cancer
+C1516119,TREATS,C0007134,293.0,SemMedDB,"orch,phsu",neop,Kidney Cancer
+C1516119,TREATS,C2239176,784.0,SemMedDB,"orch,phsu",neop,Liver Cancer
+C1516119,TREATS,C3163939,,repoDB,phsu,dsyn,Thyroid Cancer
+C1176020,TREATS,C0007134,67.0,SemMedDB,"orch,phsu",neop,Kidney Cancer
+C0245194,TREATS,C0242379,,repoDB,phsu,dsyn,Lung Cancer
+C4726799,TREATS,C4708088,,repoDB,phsu,dsyn,Breast Cancer
+C1831828,TREATS,C0025202,,repoDB,phsu,dsyn,Melanoma
+C1567753,TREATS,C0023487,,repoDB,phsu,dsyn,Leukemia
+C0039286,TREATS,C3163805,,repoDB,phsu,dsyn,Breast Cancer
+C0039286,TREATS,C1134719,,repoDB,phsu,dsyn,Breast Cancer
+C1707080,TREATS,C0007134,,repoDB,phsu,dsyn,Kidney Cancer
+C1707080,TREATS,C0334634,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C1707080,TREATS,C0007134,,repoDB,phsu,dsyn,Kidney Cancer
+C1707080,TREATS,C0334634,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0039512,TREATS,C0023449,,repoDB,phsu,dsyn,Leukemia
+C0039600,TREATS,C3163805,,repoDB,phsu,dsyn,Breast Cancer
+C0039601,TREATS,C1562029,,repoDB,phsu,dsyn,Breast Cancer
+C0076181,TREATS,C1562029,,repoDB,phsu,dsyn,Breast Cancer
+C0076181,TREATS,C1562029,,repoDB,phsu,dsyn,Breast Cancer
+C0076189,TREATS,C1562029,,repoDB,phsu,dsyn,Breast Cancer
+C0076189,TREATS,C1562029,,repoDB,phsu,dsyn,Breast Cancer
+C0039607,TREATS,C1562029,,repoDB,phsu,dsyn,Breast Cancer
+C0039607,TREATS,C1562029,,repoDB,phsu,dsyn,Breast Cancer
+C0039902,TREATS,C0023467,,repoDB,phsu,dsyn,Leukemia
+C0039871,TREATS,C0024305,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0039871,TREATS,C3163805,,repoDB,phsu,dsyn,Breast Cancer
+C0039871,TREATS,C0005684,,repoDB,phsu,dsyn,Bladder Cancer
+C4056441,TREATS,C0007102,,repoDB,phsu,dsyn,Colon and Rectal Cancer
+C2827667,TREATS,C0007134,,repoDB,phsu,dsyn,Kidney Cancer
+C0146224,TREATS,C0149925,136.0,SemMedDB,"orch,phsu",neop,Lung Cancer
+C2697961,TREATS,C0860594,,repoDB,phsu,dsyn,Melanoma
+C0728747,TREATS,C1960398,258.0,SemMedDB,"aapp,phsu",neop,Breast Cancer
+C0728747,TREATS,C0346993,,repoDB,phsu,dsyn,Breast Cancer
+C4726900,TREATS,C4721209,,repoDB,phsu,dsyn,Breast Cancer
+C2935436,TREATS,C1960398,,repoDB,phsu,dsyn,Breast Cancer
+C0040845,TREATS,C0023487,880.0,SemMedDB,"hops,orch,phsu",neop,Leukemia
+C0040864,TREATS,C0024301,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0040864,TREATS,C0024305,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0040864,TREATS,C0023449,,repoDB,phsu,dsyn,Leukemia
+C0040864,TREATS,C0079773,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0040866,TREATS,C0024305,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0040866,TREATS,C0023449,,repoDB,phsu,dsyn,Leukemia
+C0040866,TREATS,C0079773,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0040867,TREATS,C0024305,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0040867,TREATS,C0023449,,repoDB,phsu,dsyn,Leukemia
+C0040867,TREATS,C0024301,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0040976,TREATS,C0007134,,repoDB,phsu,dsyn,Kidney Cancer
+C0040987,TREATS,C0007102,,repoDB,phsu,dsyn,Colon and Rectal Cancer
+C4519167,TREATS,C4721209,,repoDB,phsu,dsyn,Breast Cancer
+C0041920,TREATS,C0024305,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0041920,TREATS,C0023473,,repoDB,phsu,dsyn,Leukemia
+C0041920,TREATS,C0023434,,repoDB,phsu,dsyn,Leukemia
+C0068314,TREATS,C0005684,,repoDB,phsu,dsyn,Bladder Cancer
+C1121849,TREATS,C3163939,,repoDB,phsu,dsyn,Thyroid Cancer
+C4079830,TREATS,C0023434,138.0,SemMedDB,"orch,phsu",neop,Leukemia
+C0042670,TREATS,C0024305,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0042670,TREATS,C3163805,,repoDB,phsu,dsyn,Breast Cancer
+C0042679,TREATS,C0024301,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0042679,TREATS,C0023449,118.0,SemMedDB,"orch,phsu",neop,Leukemia
+C0042679,TREATS,C0079744,214.0,SemMedDB,"orch,phsu",neop,Non-Hodgkin Lymphoma
+C0042679,TREATS,C0006413,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C0042679,TREATS,C0024305,98.0,SemMedDB,"orch,phsu",neop,Non-Hodgkin Lymphoma
+C0042682,TREATS,C0242379,,repoDB,phsu,dsyn,Lung Cancer
+C0042682,TREATS,C0023473,,repoDB,phsu,dsyn,Leukemia
+C0042682,TREATS,C0025202,,repoDB,phsu,dsyn,Melanoma
+C0042682,TREATS,C0023449,,repoDB,phsu,dsyn,Leukemia
+C0078257,TREATS,C0007131,515.0,SemMedDB,"orch,phsu",neop,Lung Cancer
+C0672708,TREATS,C0079773,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
+C4683810,TREATS,C0334634,,repoDB,phsu,dsyn,Non-Hodgkin Lymphoma
