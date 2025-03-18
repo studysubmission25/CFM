@@ -38,13 +38,6 @@ entity_to_id_noised = triples_factory_noised.entity_to_id
 if entity_to_id_positive == entity_to_id_noised:
     print("Entity mappings MATCH between positive and noised datasets!")
 
-# Load Original and Noised Embeddings
-#original_embeddings = torch.load("/home/ubuntu/ECMLPKDD/diffusion_model/original_rgcn_model.pt", map_location=device)
-#original_embeddings = original_embeddings['entity_representations.0.entity_embeddings._embeddings.weight'].to(device)
-
-#noised_embeddings = torch.load("/home/ubuntu/ECMLPKDD/diffusion_model/noised_rgcn_model.pt", map_location=device)
-#noised_embeddings = noised_embeddings['entity_representations.0.entity_embeddings._embeddings.weight'].to(device)
-
 # Load denoised embeddings from .npy file
 original_numpy = np.load("original_node_embeddings.npy")
 # Convert to PyTorch tensor and move to device (CPU/GPU)
